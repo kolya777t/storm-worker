@@ -2,7 +2,8 @@
 import requests
 import random
 
-SERVER_URL = "http://localhost:5000"
+SERVER_URL = "SERVER_URL = "https://storm-api-7hbc.onrender.com"
+
 
 test_phrase = "allow claim sustain comfort tuition coral quote topple scorpion nation merry kiss"
 print(f"Проверка тестовой фразы: {test_phrase}")
