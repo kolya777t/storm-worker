@@ -2,7 +2,7 @@
 import requests
 import random
 
-SERVER_URL = "SERVER_URL = "https://storm-api-7hbc.onrender.com"
+SERVER_URL = "https://storm-api-7hbc.onrender.com"
 
 
 test_phrase = "allow claim sustain comfort tuition coral quote topple scorpion nation merry kiss"
